@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# tensorflow save
+tensorflow/deep_learning_with_tensorflow/chp05/saved_model/*
