@@ -8,6 +8,6 @@
 
 + [WILDML:](./WILDML) [www.wildml.com](http://www.wildml.com/)
 
-#### books
+#### nn framework
 
-+ [nndl:](./nndl) [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
++ [tensorflow](./tensorflow)
