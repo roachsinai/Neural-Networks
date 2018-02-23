@@ -90,3 +90,6 @@ ENV/
 
 # tensorflow save
 tensorflow/deep_learning_with_tensorflow/chp05/saved_model/*
+
+# vym temp file
+*.vym.lock
